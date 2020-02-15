@@ -124,9 +124,15 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="image\cancel.png" />
     <Content Include="image\flower.png" />
-    <Content Include="image\visa.jpg" />
+    <Content Include="image\makepayment.png" />
+    <Content Include="image\pay.png" />
+    <Content Include="image\question.png" />
+    <Content Include="image\Refresh.png" />
+    <Content Include="image\Visa.png" />
     <Content Include="StyleFormat.css" />
+    <Content Include="Validation.js" />
     <Content Include="WebForm1.aspx" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
